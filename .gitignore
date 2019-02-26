@@ -24,3 +24,8 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
+
+
+/application-services/target/
+/ticket-services/target/
+/user-services/target/
