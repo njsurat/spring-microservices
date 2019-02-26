@@ -1,10 +1,10 @@
 The application uses an H2 In Memory database
 
 1.) Applications
-Runs on port: 8081
-H2 Console: http://localhost:8081/console/
+Runs on port: 8081.
+H2 Console: http://localhost:8081/console/.
 The jdbc url should be: jdbc:h2:mem:testdb
-The user name is "sa" and there is no password
+The user name is "sa" and there is no password.
 Swagger URL: http://localhost:8081/swagger-ui.html
 
 2.)Tickets
