@@ -1,6 +1,6 @@
 The application uses an H2 In Memory database
 
-2.) Applications
+1.) Applications
 Runs on port: 8081
 H2 Console: http://localhost:8081/console/
 The jdbc url should be: jdbc:h2:mem:testdb
